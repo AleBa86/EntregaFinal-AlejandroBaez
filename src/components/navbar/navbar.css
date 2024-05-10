@@ -18,25 +18,9 @@
     height: 1.5rem;
     width: 1.5rem;
     border-radius: 100%;
-    background-color: red;
-}
-/* 
 
-
-
-.listNavBar{
-    display: flex;
 }
 
-.listNavBar ul{
-    width: 100%;
+#cartWidget{
+    text-decoration: none;
 }
-.listNavBar li {
-    list-style: none;
-    display: flex;
-    align-items: center;
-    padding: 10px 50px 10px 50px;
-}
-
-
-} */
